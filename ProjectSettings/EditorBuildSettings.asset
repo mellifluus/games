@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: 3a5a8fa662b53804caf017ee83c5fdfe
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Bubbles.unity
+    guid: e447a5a6fc508154cbe44182d65190a7
+  - enabled: 1
+    path: Assets/Scenes/DuckieBoom.unity
+    guid: 8b392cf7ec09f174c986db404c837487
+  - enabled: 1
+    path: Assets/Scenes/JellyPop.unity
+    guid: 1130d6c72b480574f8a360d6d45bf001
+  - enabled: 1
+    path: Assets/Scenes/Memory.unity
+    guid: bde9f3921921f9f43af4552627d17ded
+  - enabled: 1
+    path: Assets/Scenes/UnderTheSea.unity
+    guid: 7a6ca2382d7be7245911b15b16cfcd6c
+  - enabled: 1
+    path: Assets/Scenes/OmbreTerrificanti.unity
+    guid: 2f4bcfef63bb34249b3ccf279caca100
+  - enabled: 1
+    path: Assets/Scenes/XiloPlay.unity
+    guid: 719a2e8367f695940a1736c41af23c7a
+  - enabled: 1
+    path: Assets/Scenes/Shape.unity
+    guid: c9b117066153ab940b25ae24acd7688c
+  - enabled: 1
+    path: Assets/Scenes/WorldCreator.unity
+    guid: 26b9daec1b3b2244babc884e03f8a3ab
+  - enabled: 1
+    path: Assets/Scenes/ATavola.unity
+    guid: 7035a32de3f16e24aba6eea06b4a1103
+  - enabled: 1
+    path: Assets/Scenes/ForestRide.unity
+    guid: 95dce7821680c2743adaae764454128b
+  - enabled: 1
+    path: Assets/Scenes/Riciclando.unity
+    guid: 8c79c9e71079a824f89af4e4951e6b67
+  - enabled: 1
+    path: Assets/Scenes/Suoni.unity
+    guid: cd0a58812bca967408362b457757b92a
+  - enabled: 1
+    path: Assets/Scenes/TheMask.unity
+    guid: 21c3c539867ff2b43aa803e71836a3ad
+  - enabled: 1
+    path: Assets/Scenes/CartoonWorld.unity
+    guid: 9aa7c03c260c89c49b72808705f000b4
+  m_configObjects: {}

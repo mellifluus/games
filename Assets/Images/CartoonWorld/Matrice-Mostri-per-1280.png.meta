@@ -1,0 +1,824 @@
+fileFormatVersion: 2
+guid: a2af7ebf724e5f34687e7c84463b9cf7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Matrice-Mostri-per-1280_0
+  - first:
+      213: 21300002
+    second: Matrice-Mostri-per-1280_1
+  - first:
+      213: 21300004
+    second: Matrice-Mostri-per-1280_2
+  - first:
+      213: 21300006
+    second: Matrice-Mostri-per-1280_3
+  - first:
+      213: 21300008
+    second: Matrice-Mostri-per-1280_4
+  - first:
+      213: 21300010
+    second: Matrice-Mostri-per-1280_5
+  - first:
+      213: 21300012
+    second: Matrice-Mostri-per-1280_6
+  - first:
+      213: 21300014
+    second: Matrice-Mostri-per-1280_7
+  - first:
+      213: 21300016
+    second: Matrice-Mostri-per-1280_8
+  - first:
+      213: 21300018
+    second: Matrice-Mostri-per-1280_9
+  - first:
+      213: 21300020
+    second: Matrice-Mostri-per-1280_10
+  - first:
+      213: 21300022
+    second: Matrice-Mostri-per-1280_11
+  - first:
+      213: 21300024
+    second: Matrice-Mostri-per-1280_12
+  - first:
+      213: 21300026
+    second: Matrice-Mostri-per-1280_13
+  - first:
+      213: 21300028
+    second: Matrice-Mostri-per-1280_14
+  - first:
+      213: 21300030
+    second: Matrice-Mostri-per-1280_15
+  - first:
+      213: 21300032
+    second: Matrice-Mostri-per-1280_16
+  - first:
+      213: 21300034
+    second: Matrice-Mostri-per-1280_17
+  - first:
+      213: 21300036
+    second: Matrice-Mostri-per-1280_18
+  - first:
+      213: 21300038
+    second: Matrice-Mostri-per-1280_19
+  - first:
+      213: 21300040
+    second: Matrice-Mostri-per-1280_20
+  - first:
+      213: 21300042
+    second: Matrice-Mostri-per-1280_21
+  - first:
+      213: 21300044
+    second: Matrice-Mostri-per-1280_22
+  - first:
+      213: 21300046
+    second: Matrice-Mostri-per-1280_23
+  - first:
+      213: 21300048
+    second: Matrice-Mostri-per-1280_24
+  - first:
+      213: 21300050
+    second: Matrice-Mostri-per-1280_25
+  - first:
+      213: 21300052
+    second: Matrice-Mostri-per-1280_26
+  - first:
+      213: 21300054
+    second: Matrice-Mostri-per-1280_27
+  - first:
+      213: 21300056
+    second: Matrice-Mostri-per-1280_28
+  - first:
+      213: 21300058
+    second: Matrice-Mostri-per-1280_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2234.1667
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006834798d8c1ac40ad5eb70404a6701
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_1
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2234.1667
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f56111daa0ecf4fa0f1a5fb5c20f97
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_2
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 2234.1667
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dbbfa12c83ca6478e38127efa59724
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_3
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 2234.1667
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2423dd5f82fc64ea69c3f9305683f4
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_4
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 2234.1667
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2bb490d915407469e92587923c26d5
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1788.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb7141ea1139b041828ff5814548dfc
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_6
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1788.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c58100fbf3826448497eedddaba05e
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_7
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1788.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da87e6f7f5814440874a7a3b8ac6852
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_8
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1788.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef3c47e7d558cb41aa71e8e3c578725
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_9
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1788.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38e326640f7a81498fde0265d1d343a
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1342.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ea39e978c91344cbcca386d268c33f
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1342.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddb3d02d7374664db8917c519a0d0f7
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_12
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1342.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b5ff425f4ac7e4ca7896e81b4eb717
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_13
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1342.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ca727a02525bc4589bad177fd21c1d
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_14
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1342.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f6135796bbbc84f9adafcf7eea4e67
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74030461bdce124b8594e01441294f2
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_16
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 896.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc9c6fbcc1b2cf449087b2cb25c2705
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_17
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 896.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342dd06d412d0384f9a4b18f0396013b
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_18
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 896.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9faa5cb4d4d6bf458441e26850ea604
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_19
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 896.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cf274ca2369bf4abc93422fa540814
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450.16666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e91537a60f0b64bb4875bdb65e6c84
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_21
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 450.16666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbb19ea89de38048a8ffc3128a135eb
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_22
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 450.16666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629b90b61bb03bc4684ef65f8e00f31d
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_23
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 450.16666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead2ded0999aa844da2c75be9da29f6a
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_24
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 450.16666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3dc90cf669684449bb6f1f4ed15d67
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4.1666565
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49531dd0c142444408ce45e56bf7c9e0
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_26
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 4.1666565
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c341aadaf2bc746bfb2713ad681463
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_27
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 4.1666565
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad200a11c1dc2a141b77b5f7c3de5d39
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_28
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 4.1666565
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d074e6362f6d39644aafe5dbce9b0c38
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Mostri-per-1280_29
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 4.1666565
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca42e3015bcdd92408e0a9f52f8f6d0d
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d3a36a1b309b93a47b3bb793b77951e0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

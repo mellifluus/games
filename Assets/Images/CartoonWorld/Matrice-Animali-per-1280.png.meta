@@ -1,0 +1,824 @@
+fileFormatVersion: 2
+guid: e97f7a448e615ff458cff0b624cc52c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Matrice-Animali-per-1280_0
+  - first:
+      213: 21300002
+    second: Matrice-Animali-per-1280_1
+  - first:
+      213: 21300004
+    second: Matrice-Animali-per-1280_2
+  - first:
+      213: 21300006
+    second: Matrice-Animali-per-1280_3
+  - first:
+      213: 21300008
+    second: Matrice-Animali-per-1280_4
+  - first:
+      213: 21300010
+    second: Matrice-Animali-per-1280_5
+  - first:
+      213: 21300012
+    second: Matrice-Animali-per-1280_6
+  - first:
+      213: 21300014
+    second: Matrice-Animali-per-1280_7
+  - first:
+      213: 21300016
+    second: Matrice-Animali-per-1280_8
+  - first:
+      213: 21300018
+    second: Matrice-Animali-per-1280_9
+  - first:
+      213: 21300020
+    second: Matrice-Animali-per-1280_10
+  - first:
+      213: 21300022
+    second: Matrice-Animali-per-1280_11
+  - first:
+      213: 21300024
+    second: Matrice-Animali-per-1280_12
+  - first:
+      213: 21300026
+    second: Matrice-Animali-per-1280_13
+  - first:
+      213: 21300028
+    second: Matrice-Animali-per-1280_14
+  - first:
+      213: 21300030
+    second: Matrice-Animali-per-1280_15
+  - first:
+      213: 21300032
+    second: Matrice-Animali-per-1280_16
+  - first:
+      213: 21300034
+    second: Matrice-Animali-per-1280_17
+  - first:
+      213: 21300036
+    second: Matrice-Animali-per-1280_18
+  - first:
+      213: 21300038
+    second: Matrice-Animali-per-1280_19
+  - first:
+      213: 21300040
+    second: Matrice-Animali-per-1280_20
+  - first:
+      213: 21300042
+    second: Matrice-Animali-per-1280_21
+  - first:
+      213: 21300044
+    second: Matrice-Animali-per-1280_22
+  - first:
+      213: 21300046
+    second: Matrice-Animali-per-1280_23
+  - first:
+      213: 21300048
+    second: Matrice-Animali-per-1280_24
+  - first:
+      213: 21300050
+    second: Matrice-Animali-per-1280_25
+  - first:
+      213: 21300052
+    second: Matrice-Animali-per-1280_26
+  - first:
+      213: 21300054
+    second: Matrice-Animali-per-1280_27
+  - first:
+      213: 21300056
+    second: Matrice-Animali-per-1280_28
+  - first:
+      213: 21300058
+    second: Matrice-Animali-per-1280_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2234.1667
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be66c17d1be77c49be9100a6c760cbb
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_1
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2234.1667
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82a9ffb832d8e345afe95d92225dabe
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_2
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 2234.1667
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3832eac6335a3b4e8bc31d9716b650a
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_3
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 2234.1667
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e888d01e3b8f7ad4290001f5e6501929
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_4
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 2234.1667
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e0b7db8d4db7247b161045fbc3cc8c
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1788.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5141ed7b08f691b469f782e35411ee3f
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_6
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1788.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8fb12e008208d42989b373b0125237
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_7
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1788.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8f25350a5c4ee4eb72391d6e599467
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_8
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1788.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97606b231a8f34f448d4678278dc9bbc
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_9
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1788.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c627e27f93874d46aa86e1b0fe14aa0
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1342.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a61990e3387284b93a3ad782944ba8
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1342.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d73ff13041905458b411ecf2dc9161
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_12
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1342.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208c4d5211918214092f26cf7d495c3e
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_13
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1342.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9becb119cdafb0d40b96a5ea6c780153
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_14
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1342.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd602cb8092eab42a87865a6a286bdb
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1c2826fabde924fb6c46ac90a81741
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_16
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 896.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a3ad6d51e8e384ca86a56cd9738aa7
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_17
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 896.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60ce98702a382245862c54f60d9b7c6
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_18
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 896.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fca524373f98a4880180e11ee01f41
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_19
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 896.1666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a353273187c844bb47609eec8d376d
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450.16666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eebea41b11fb84b84dba74d75272d6
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_21
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 450.16666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e011f052bacab348b64ec8f70815393
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_22
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 450.16666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4dbed1c04292144b602aa984ccfe55
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_23
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 450.16666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f53b6900e0ba1f40b4755964742b5b9
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_24
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 450.16666
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459758c0057a88f45afa39339810f935
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4.1666565
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d767241750c1b4aa8d93bc9d8d6cf1
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_26
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 4.1666565
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c670baf5ef0fd4faee0bbf3176ada2
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_27
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 4.1666565
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bab263a2c6e0cf489812690c3881cc2
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_28
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 4.1666565
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c5281f7adf1504bb3a76070f375004
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Animali-per-1280_29
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 4.1666565
+        width: 533.2
+        height: 446.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725dad0fd652e764e81056b9e8ec4459
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 643751365c971b9488fc4e89c6c50c8b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,824 @@
+fileFormatVersion: 2
+guid: 90201cdf7812f134281ad4649f0c74e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Matrice-Dinosauri-per-1280_0
+  - first:
+      213: 21300002
+    second: Matrice-Dinosauri-per-1280_1
+  - first:
+      213: 21300004
+    second: Matrice-Dinosauri-per-1280_2
+  - first:
+      213: 21300006
+    second: Matrice-Dinosauri-per-1280_3
+  - first:
+      213: 21300008
+    second: Matrice-Dinosauri-per-1280_4
+  - first:
+      213: 21300010
+    second: Matrice-Dinosauri-per-1280_5
+  - first:
+      213: 21300012
+    second: Matrice-Dinosauri-per-1280_6
+  - first:
+      213: 21300014
+    second: Matrice-Dinosauri-per-1280_7
+  - first:
+      213: 21300016
+    second: Matrice-Dinosauri-per-1280_8
+  - first:
+      213: 21300018
+    second: Matrice-Dinosauri-per-1280_9
+  - first:
+      213: 21300020
+    second: Matrice-Dinosauri-per-1280_10
+  - first:
+      213: 21300022
+    second: Matrice-Dinosauri-per-1280_11
+  - first:
+      213: 21300024
+    second: Matrice-Dinosauri-per-1280_12
+  - first:
+      213: 21300026
+    second: Matrice-Dinosauri-per-1280_13
+  - first:
+      213: 21300028
+    second: Matrice-Dinosauri-per-1280_14
+  - first:
+      213: 21300030
+    second: Matrice-Dinosauri-per-1280_15
+  - first:
+      213: 21300032
+    second: Matrice-Dinosauri-per-1280_16
+  - first:
+      213: 21300034
+    second: Matrice-Dinosauri-per-1280_17
+  - first:
+      213: 21300036
+    second: Matrice-Dinosauri-per-1280_18
+  - first:
+      213: 21300038
+    second: Matrice-Dinosauri-per-1280_19
+  - first:
+      213: 21300040
+    second: Matrice-Dinosauri-per-1280_20
+  - first:
+      213: 21300042
+    second: Matrice-Dinosauri-per-1280_21
+  - first:
+      213: 21300044
+    second: Matrice-Dinosauri-per-1280_22
+  - first:
+      213: 21300046
+    second: Matrice-Dinosauri-per-1280_23
+  - first:
+      213: 21300048
+    second: Matrice-Dinosauri-per-1280_24
+  - first:
+      213: 21300050
+    second: Matrice-Dinosauri-per-1280_25
+  - first:
+      213: 21300052
+    second: Matrice-Dinosauri-per-1280_26
+  - first:
+      213: 21300054
+    second: Matrice-Dinosauri-per-1280_27
+  - first:
+      213: 21300056
+    second: Matrice-Dinosauri-per-1280_28
+  - first:
+      213: 21300058
+    second: Matrice-Dinosauri-per-1280_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2233.3333
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266b1752fd7fb444b96cf5f7cec63ff0
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_1
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2233.3333
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fb5a5131048bb4a8159e69db20b4c7
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_2
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 2233.3333
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860357c25f81f064ea622f7bb98f6b98
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_3
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 2233.3333
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f310c7aa9b4cacb42b2284675159c08a
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_4
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 2233.3333
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e95312c21c50e4d9e95f593d6025af
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1787.3334
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f779ca8e09e6cc04bb03ab9e12ce6a32
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_6
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1787.3334
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a9e9e6b9747d946ba75f2bfb4b9ae8
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_7
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1787.3334
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beba47bcb2bf90d4c9fd3b7c28845558
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_8
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1787.3334
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481ce3ddeb2b3d24e9b0cc9c23734a1c
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_9
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1787.3334
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8dab0faab83284d83a55f739c35ca4
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1341.3334
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240f02053eed23d4b9628570d2d2adbc
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1341.3334
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ec748338dc92b4fa83bd8cbdb76abe
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_12
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1341.3334
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e53f6da6595464e93d5d3cb3fdd26c
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_13
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1341.3334
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ebbec1be5ce40448d221aa1dedef22
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_14
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1341.3334
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7802fc3b0c664d84cb28c57731459583
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895.3334
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0943be5ff387af44b8b24d3159d231d5
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_16
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 895.3334
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b9031f06228d34bb77c600b5f1881b
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_17
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 895.3334
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0beb4f94c2e076148ac477d610855aad
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_18
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 895.3334
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4eb5dd2a151494da7efd170fd31f03
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_19
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 895.3334
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80699c35452bdcd4bad62af073d76c32
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449.33334
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f047fe60ee3f5524b8b1ce09f8c07016
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_21
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 449.33334
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c098bf3d4291a44b09f979fde17126
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_22
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 449.33334
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f50ebacdb27c414cb5831d329a78f00
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_23
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 449.33334
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e739c460f41281148a84192da67afd31
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_24
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 449.33334
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0cf17417103894f8c98f1043bbcd83
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.3333435
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe846260c1a30214d8b5d8f483ca5f8c
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_26
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 3.3333435
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f12522961b92cc43a94395508de6162
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_27
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 3.3333435
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd1215136de9ff47ba8b7d5dd5afb1a
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_28
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 3.3333435
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c0c5bf4aad5cb468fecbda3a8db56e
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matrice-Dinosauri-per-1280_29
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 3.3333435
+        width: 533.2
+        height: 446.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24381a20c81843049bfe41b311164ed8
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ed0b1d97cd5463b4b8c0eb9085ebff68
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

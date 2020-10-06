@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bolla
+  - Editor
+  - Duckie
+  - Jelly
+  - Card
+  - Carta
+  - Mask
+  - PForme
+  - Stella
+  - pos1
+  - pos2
+  - pos3
+  - pos4
+  - SpazioSfondi
+  - Final
+  - EditorF
+  - Pesce
+  - Runner
+  - Dolcetti
+  - Cibi
+  - Games
+  - Dragging
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Piatti
+  - Cibo
+  - Cassonetti
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backbackground
+    uniqueID: 2708822519
+    locked: 0
+  - name: Background
+    uniqueID: 3150736403
+    locked: 0
+  - name: Layer Onde
+    uniqueID: 171809543
+    locked: 0
+  - name: Midground
+    uniqueID: 1010785751
+    locked: 0
+  - name: Foreground
+    uniqueID: 2000933293
+    locked: 0
+  - name: Foreforeground
+    uniqueID: 3569958513
+    locked: 0
